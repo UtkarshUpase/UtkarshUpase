@@ -9,7 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/UtkarshUpase](https://github.com/UtkarshUpase)
 
-   <img align="right" alt="Coding" width="400" style="border-radius:10pt;" src="https://www.neolisk.blog/images/2021-03-29-speed-of-coding-2.jpg">
 - 💬 Ask me about **Web development, DSA, and Machine Learning.**
 
 - 📫 How to reach me: **You can reach me via my email.**
